@@ -15,21 +15,5 @@
 		<property name="hbm2ddl.auto">update</property>
 
 		 <mapping class = "com.crud.test.MovieDto"/> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	</session-factory>
 </hibernate-configuration>
